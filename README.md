@@ -8,7 +8,7 @@ An industrial-grade, parametric 3D mechanical assembly of a heavy-duty roller co
 
 | 🛠️ SolidWorks 3D Assembly | 💥 Exploded View (Assembly Details) |
 | :---: | :---: |
-| <img src="roller-3d.jpeg" width="400" alt="3D Assembly"/> | <img src="roller-exploded.jpeg" width="400" alt="Exploded View"/> |
+| <img src="roller-3d.png" width="400" alt="3D Assembly"/> | <img src="roller-exploded.png" width="400" alt="Exploded View"/> |
 
 ---
 
